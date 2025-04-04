@@ -136,7 +136,7 @@ const Search: FC = () => {
             </Text>
           </TouchableOpacity>
           <Image
-            source={require('../../assets/images/sidebus.jpg')}
+            source={require('../../assets/images/sideBusAB.jpg')}
             className="h-40 rounded-lg my-4 w-full"
           />
         </View>
